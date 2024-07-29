@@ -1,0 +1,1 @@
+# Strikeout-Model-Image
