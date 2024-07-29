@@ -1,0 +1,128 @@
+[
+  {
+    "event": "Detroit Tigers vs Cleveland Guardians",
+    "pitcher": "Tanner Bibee",
+    "strikeouts": 5.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:03:20"
+  },
+  {
+    "event": "Philadelphia Phillies vs New York Yankees",
+    "pitcher": "Luis Gil",
+    "strikeouts": 6.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:02:48"
+  },
+  {
+    "event": "Philadelphia Phillies vs New York Yankees",
+    "pitcher": "Zack Wheeler",
+    "strikeouts": 7.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:02:48"
+  },
+  {
+    "event": "Boston Red Sox vs Seattle Mariners",
+    "pitcher": "Logan Gilbert",
+    "strikeouts": 5.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:02:57"
+  },
+  {
+    "event": "Boston Red Sox vs Seattle Mariners",
+    "pitcher": "Nick Pivetta",
+    "strikeouts": 6.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:02:57"
+  },
+  {
+    "event": "Cincinnati Reds vs Chicago Cubs",
+    "pitcher": "Carson Spiers",
+    "strikeouts": 4.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:02:56"
+  },
+  {
+    "event": "Cincinnati Reds vs Chicago Cubs",
+    "pitcher": "Jameson Taillon",
+    "strikeouts": 4.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:02:56"
+  },
+  {
+    "event": "New York Mets vs Minnesota Twins",
+    "pitcher": "Jose Quintana",
+    "strikeouts": 3.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:02:24"
+  },
+  {
+    "event": "New York Mets vs Minnesota Twins",
+    "pitcher": "Simeon Woods Richardson",
+    "strikeouts": 4.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:02:24"
+  },
+  {
+    "event": "St. Louis Cardinals vs Texas Rangers",
+    "pitcher": "Andre Pallante",
+    "strikeouts": 3.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:02:52"
+  },
+  {
+    "event": "St. Louis Cardinals vs Texas Rangers",
+    "pitcher": "Nathan Eovaldi",
+    "strikeouts": 4.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:02:52"
+  },
+  {
+    "event": "Milwaukee Brewers vs Atlanta Braves",
+    "pitcher": "Colin Rea",
+    "strikeouts": 4.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:02:50"
+  },
+  {
+    "event": "Chicago White Sox vs Kansas City Royals",
+    "pitcher": "Alec Marsh",
+    "strikeouts": 4.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:03:13"
+  },
+  {
+    "event": "Chicago White Sox vs Kansas City Royals",
+    "pitcher": "Chris Flexen",
+    "strikeouts": 3.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:03:13"
+  },
+  {
+    "event": "Houston Astros vs Pittsburgh Pirates",
+    "pitcher": "Jake Bloss",
+    "strikeouts": 5.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:03:10"
+  },
+  {
+    "event": "Houston Astros vs Pittsburgh Pirates",
+    "pitcher": "Paul Skenes",
+    "strikeouts": 6.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:03:10"
+  },
+  {
+    "event": "Arizona Diamondbacks vs Washington Nationals",
+    "pitcher": "Jordan Montgomery",
+    "strikeouts": 3.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:03:41"
+  },
+  {
+    "event": "Arizona Diamondbacks vs Washington Nationals",
+    "pitcher": "Mitchell Parker",
+    "strikeouts": 3.5,
+    "bookmaker": "DraftKings",
+    "last_update": "2024-07-29T21:03:41"
+  }
+]
