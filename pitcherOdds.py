@@ -2,6 +2,7 @@ import requests
 import json
 from datetime import datetime
 
+
 def check_api_usage(response):
     print('Remaining requests:', response.headers['x-requests-remaining'])
     print('Used requests:', response.headers['x-requests-used'])
